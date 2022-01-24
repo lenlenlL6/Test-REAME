@@ -19,7 +19,7 @@
 ## Commands
 | **Commands** | **Description** | **Usage** |
 | --- | --- | --- |
-| **/hitparticle** | **Turn hit particles on or off** | **/hitparrticle [on|off]** |
+| **/hitparticle** | **Turn hit particles on or off** | **`/hitparrticle [on|off]`** |
 
 <br>
 
